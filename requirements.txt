@@ -1,0 +1,9 @@
+torch
+torchvision
+torchaudio
+transformers
+librosa
+opencv-python
+pandas
+scikit-learn
+tqdm
